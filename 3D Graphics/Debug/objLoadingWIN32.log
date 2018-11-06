@@ -1,0 +1,17 @@
+﻿  main.cpp
+\\ueahome4\stusci2\paj13suu\data\downloads\cw\cw\07 obj loading with glm v3 - quaternion_octree\main.cpp(39): warning C4305: 'initializing': truncation from 'double' to 'float'
+\\ueahome4\stusci2\paj13suu\data\downloads\cw\cw\07 obj loading with glm v3 - quaternion_octree\main.cpp(44): warning C4305: 'initializing': truncation from 'double' to 'float'
+\\ueahome4\stusci2\paj13suu\data\downloads\cw\cw\07 obj loading with glm v3 - quaternion_octree\main.cpp(66): warning C4305: 'initializing': truncation from 'double' to 'float'
+\\ueahome4\stusci2\paj13suu\data\downloads\cw\cw\07 obj loading with glm v3 - quaternion_octree\main.cpp(109): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\ueahome4\stusci2\paj13suu\data\downloads\cw\cw\07 obj loading with glm v3 - quaternion_octree\main.cpp(1103): warning C4305: 'initializing': truncation from 'double' to 'float'
+\\ueahome4\stusci2\paj13suu\data\downloads\cw\cw\07 obj loading with glm v3 - quaternion_octree\main.cpp(1125): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+\\ueahome4\stusci2\paj13suu\data\downloads\cw\cw\07 obj loading with glm v3 - quaternion_octree\main.cpp(1248): warning C4305: '+=': truncation from 'double' to 'float'
+\\ueahome4\stusci2\paj13suu\data\downloads\cw\cw\07 obj loading with glm v3 - quaternion_octree\main.cpp(1269): warning C4305: '+=': truncation from 'double' to 'float'
+\\ueahome4\stusci2\paj13suu\data\downloads\cw\cw\07 obj loading with glm v3 - quaternion_octree\main.cpp(1598): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+\\ueahome4\stusci2\paj13suu\data\downloads\cw\cw\07 obj loading with glm v3 - quaternion_octree\main.cpp(2017): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+\\ueahome4\stusci2\paj13suu\data\downloads\cw\cw\07 obj loading with glm v3 - quaternion_octree\main.cpp(2018): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+\\ueahome4\stusci2\paj13suu\data\downloads\cw\cw\07 obj loading with glm v3 - quaternion_octree\main.cpp(2022): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+\\ueahome4\stusci2\paj13suu\data\downloads\cw\cw\07 obj loading with glm v3 - quaternion_octree\main.cpp(2023): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+console.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  objLoadingWIN32.vcxproj -> \\ueahome4\stusci2\paj13suu\data\Downloads\cw\CW\07 OBJ loading with GLM v3 - quaternion_octree\Debug\objLoadingWIN32.exe
+  objLoadingWIN32.vcxproj -> \\ueahome4\stusci2\paj13suu\data\Downloads\cw\CW\07 OBJ loading with GLM v3 - quaternion_octree\Debug\objLoadingWIN32.pdb (Full PDB)
